@@ -1,0 +1,9 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "xlsx": "^0.15.6",
+    "xlsx-calc": "^0.6.5"
+  }
+}
